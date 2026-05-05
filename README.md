@@ -37,4 +37,4 @@ Grant camera permissions and click "Enter Experience" to initialize the engine.
 # **👨‍💻 Connect**
 Developed by Soumyadeep Dey.
 
-Portfolio | LinkedIn | GitHub
+
